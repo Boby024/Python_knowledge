@@ -1,0 +1,11 @@
+Aufabe 1
+
+* ( a and a) or (b and b)= a or b
+* (a and b) or (a and c) = a and ( a or c) and (b or a) and (b or c)
++ not (a < b) or (a == b)= a>=b or a==b
+• (not (a < b) and not (a > b)) = a>=b and a<=b
+• (not (a and b) and (a or b)) or ((a and b) or not (a or b)) = ( not(a) or not(b) and (a or b) ) or (a and b  or  not(a) and not(b) )
+
+
+
+

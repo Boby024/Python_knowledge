@@ -1,0 +1,28 @@
+1Nicht zugelassen sind esoterische Sprachen wie Whitespace, Brainfuck und Shakespeare
+bitte frühzeitig per E-Mail zur Vereinbarung von Terminen und Accounts.
+Studierende, die die Aufgaben gerne im DB-Pool bearbeiten möchten, melden sich
+auch die Bearbeitung auch auf einem Rechner im DB-Pool (Raum LF 230) erfolgen.
+Rechner mitgebracht werden. Falls das nicht möglich ist, kann die Abnahme als
+Lösung erstellten Tools und das jeweils verwendete Schema. Dazu kann ein eigener
+Bei der Abnahme werden die Lösungen der einzelnen Blöcke betrachtet, die zur
+Zeitraum 10.7.201911.7.2019 vereinbaren. Die Abnahme dauert ca. 20 Minuten.
+Abschluss des Praktikums ist die Abnahme des Suchsystems im Rahmen einer Vorführung. Dazu muss jeder Teilnehmer bzw. jede Gruppe einen Abnahmetermin im
+0.4 Abnahme
+nachfragen.
+dass der Code funktioniert, bei der Abnahme erklärt werden kann und dass wesentliche Schritte programmatisch durchgeführt werden. Wenn Du Programmbibliotheken kennst, die Dir die Arbeit erleichtern: nutze sie! Im Zweifelsfall bitte vorher
+Shellskripte, aber auch Textbearbeitungssprachen wie sed und awk. Wichtig ist,
+Bei einigen Aufgaben muss Programmcode geschrieben werden. Dabei sind prinzipiell alle sinnvollen1 Sprachen zugelassen, insbesondere Java, Python und Ruby,
+Gruppen zu zwei Personen.
+Die Bearbeitung der Aufgaben sowie die Abnahme erfolgt in Einzelarbeit oder in
+0.3 Arbeitsweise
+Internet-Suchmaschine.
+Im dritten Block wird das Suchsystem um einen Webcrawler erweitert zu einer
+Im zweiten Block wird anhand der indexierten Kollektion eine Evaluation durchgeführt.
+indexiert.
+Im ersten Block wird der Suchserver Solr installiert und damit eine Kollektion
+Das Praktikum ist in drei Blöcke aufgeteilt.
+0.2 Ablauf
+Konzepte an einem praktischen Beispiel anzuwenden.
+Die Teilnehmer des IR-Praktikums sollen lernen, die in der Vorlesung vorgestellten
+0.1 Ziel der Veranstaltung
+0 Einführung
