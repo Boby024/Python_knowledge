@@ -1,0 +1,14 @@
+
+a)
+Zeile 3 und 4: x^2
+Zeile 5: const= 1
+Also x^2+1 => x^2
+
+b)
+Zeile 10: 1
+
+c)
+Zeile 14: 1
+Zeile 15: 1
+Zeile 16: 1
+Also 3
