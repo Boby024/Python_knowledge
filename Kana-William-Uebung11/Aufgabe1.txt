@@ -1,0 +1,17 @@
+Aufgabe1:
+
+
+Zeile  2  : 1
+Zeile  3  : N
+Zeile  4  : 1
+Zeile  5  : 1
+Zeile  6  : N
+Zeile  7  : 1 + 1
+Zeile  8  : 1 + 1
+Zeile  9  :
+Zeile  10  : log N
+Zeile  11  : 1+1
+Zeile  12  : log N
+ Worst Case: N^2 + 2 log N
+ Average Case: 1+ ( (N+2)*(N+4) ) + 2+ 2 log N = 1+ N^2+6N+8+ 2 +2log N= N^2 + 6 N + 11 + 2 log N
+ Best Case: N^2 + 6 N + 11 + 2 log N

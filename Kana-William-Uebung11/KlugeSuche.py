@@ -11,6 +11,7 @@ def sucheIndex(liste, a):
             return i
     return -1
 
+# Komplexitätsklasse: stabil
 
 if __name__ == '__main__':
     my_liste = [2, 9, 5, 6, 1, 0]
