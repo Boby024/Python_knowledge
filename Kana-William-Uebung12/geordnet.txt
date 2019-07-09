@@ -1,0 +1,15 @@
+Inhaber Anna
+ : HundeName Alaska
+ 
+Inhaber Florian
+ : HundeName Finn
+ 
+Inhaber Jan
+ : HundeName Joe
+ 
+Inhaber Klara
+ : HundeName Karlchen
+
+Inhaber Maja
+ : HundeName Millie
+ 
